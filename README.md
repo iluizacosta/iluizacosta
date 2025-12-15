@@ -80,6 +80,6 @@ Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluizacosta&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluizacosta&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 </p>
