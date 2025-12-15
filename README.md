@@ -2,7 +2,10 @@
 
 **`Desenvolvedora Web em formação`**
 
-Me chamo Ana Luiza Costa, tenho 19 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio técnico no IFRN e, atualmente, curso Tecnologia em Sistemas para Internet na mesma instituição. Possuo boa base em lógica de programação e programação orientada a objetos, estando em constante processo de aprendizado e aprimoramento técnico.
+Me chamo Ana Luiza Costa, tenho 19 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio técnico no IFRN e, atualmente, curso Tecnologia em Sistemas para Internet na mesma instituição.
+
+Possuo boa base em lógica de programação e programação orientada a objetos, estando em constante processo de aprendizado e aprimoramento técnico.
+
 Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo da minha trajetória acadêmica, servindo também como um registro da minha evolução técnica e pessoal.
 
 ### 🤖 Linguagens e Tecnologias
@@ -46,7 +49,7 @@ Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo 
     title="CSharp"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg)" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png)" 
 />
 <img 
     align="left" 
