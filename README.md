@@ -8,6 +8,8 @@ Possuo boa base em lógica de programação e programação orientada a objetos,
 
 Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo da minha trajetória acadêmica, servindo também como um registro da minha evolução técnica e pessoal.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -49,7 +51,7 @@ Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo 
     title="CSharp"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
