@@ -2,9 +2,7 @@
 
 **`Desenvolvedora Web em formação`**
 
-Me chamo Ana Luiza Costa, tenho 19 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio técnico no IFRN e, atualmente, curso Tecnologia em Sistemas para Internet na mesma instituição.
-
-Possuo boa base em lógica de programação e programação orientada a objetos, estando em constante processo de aprendizado e aprimoramento técnico.
+Me chamo Ana Luiza Costa, tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente, curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN).
 
 Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo da minha trajetória acadêmica, servindo também como um registro da minha evolução técnica e pessoal.
 
