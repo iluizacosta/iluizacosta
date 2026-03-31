@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luiza Costa
 
-**`Desenvolvedora Web em formação`**
+**`Engenheira de Computação em formação`**
 
 Me chamo Ana Luiza Costa, tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente, curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN).
 
