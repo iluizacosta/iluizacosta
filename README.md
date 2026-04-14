@@ -62,22 +62,3 @@ Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluizacosta&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-</p>
