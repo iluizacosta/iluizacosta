@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luiza Costa
 
-**`Engenheira de Computação em formação`**
+**`Computer Engineering student`**
 
 I'm Ana Luiza Costa, a 19-year-old Computer Engineering student at the Federal University of Rio Grande do Norte (UFRN), Brazil.
 
