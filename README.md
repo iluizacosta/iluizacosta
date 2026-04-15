@@ -2,13 +2,13 @@
 
 **`Engenheira de Computação em formação`**
 
-Me chamo Ana Luiza Costa, tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente, curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN).
+I'm Ana Luiza Costa, a 19-year-old Computer Engineering student at the Federal University of Rio Grande do Norte (UFRN), Brazil.
 
-Este repositório reúne tarefas, exercícios e projetos desenvolvidos ao longo da minha trajetória acadêmica, servindo também como um registro da minha evolução técnica e pessoal.
+This repository is a living record of my academic journey, gathering the tasks, exercises, and projects that shaped my technical skills and personal development along the way.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages and Technologies
 
 <img 
     align="left" 
