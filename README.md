@@ -24,37 +24,40 @@
 
 # 🎀 About Me
 
-```yaml
-name: Luiza Costa
-located_in: Brazil
-current_study: Computer Engineering @ UFRN
-learning:
-  [
-    "Machine Learning",
-    "MLOps",
-    "Deep Learning",
-    "Data Science",
-    "Software Engineering"
-  ]
+<div align="center">
 
-interests:
-  [
-    "Artificial Intelligence",
-    "Frontend Development",
-    "Academic Research",
-    "Cute UI Design",
-    "Technology & Creativity"
-  ]
+🌷 Luiza Costa  
+📍 Brazil  
+🎓 Computer Engineering student @ UFRN  
 
-hobbies:
-  [
-    "Studying",
-    "Coding",
-    "Editing videos",
-    "Music",
-    "Coffee ☕"
-  ]
-```
+<br>
+
+💗 Currently Learning  
+Machine Learning • MLOps • Deep Learning • Data Science • Software Engineering
+
+<br>
+
+🩰 Interests  
+Artificial Intelligence • Frontend Development • Academic Research • Technology
+
+<br>
+
+☕ Hobbies  
+Coding • Studying • Editing videos • Music • Coffee
+
+<br>
+
+<img src="https://img.shields.io/badge/coffee-f8c8dc?style=flat-square&logo=buymeacoffee&logoColor=white"/>
+<img src="https://img.shields.io/badge/technology-f9d5e5?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/coding-fceef5?style=flat-square&logo=codecrafters&logoColor=e091b0"/>
+<img src="https://img.shields.io/badge/music-ffe4f2?style=flat-square&logo=spotify&logoColor=e091b0"/>
+<img src="https://img.shields.io/badge/artificial_intelligence-fff5fa?style=flat-square&logo=tensorflow&logoColor=e091b0"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=2"/>
+
+</div>
 
 ---
 
