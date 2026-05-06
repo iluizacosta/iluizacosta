@@ -1,10 +1,13 @@
+<br>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Luiza+Costa+%F0%9F%92%95;Computer+Engineering+Student;Tech+Girl+%7C+Future+ML+Engineer;Building+Cute+Things+with+Code+%F0%9F%8C%B8" />
 
-<br>
+<br><br>
 
-<img src="https://i.pinimg.com/originals/5b/55/8d/5b558d4c8d3d7f6fd0f2d5d1c4fc3f6f.gif" width="250px">
+<img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250px">
+
+<br>
 
 # 🌸 Luiza Costa
 
