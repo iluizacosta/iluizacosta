@@ -5,9 +5,7 @@
 
 <br><br>
 
-<img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250px">
-
-<br>
+<img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="200px">
 
 # 🌸 Luiza Costa
 
