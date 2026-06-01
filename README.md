@@ -112,7 +112,7 @@ Coding • Studying • Editing videos • Music • Coffee
   <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/iluizacosta/">
   <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
