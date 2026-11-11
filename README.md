@@ -32,8 +32,6 @@
 
 <br>
 
-<br>
-
 🩰 Interests  
 Artificial Intelligence • Frontend Development • Academic Research • Technology
 
