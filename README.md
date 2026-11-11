@@ -59,7 +59,7 @@ Coding • Studying • Editing videos • Music • Coffee
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,typescript,javascript,html,css,vue,bootstrap,git,github,linux,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cs,typescript,html,css,vue,bootstrap,git,github,linux,vscode&theme=light" />
 
 </div>
 
