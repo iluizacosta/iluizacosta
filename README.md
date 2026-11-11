@@ -26,9 +26,9 @@ Currently studying Computer Engineering at the Federal University of Rio Grande 
 
 <div align="center">
 
-🌷 Luiza Costa  
-📍 Brazil  
-🎓 Computer Engineering student @ UFRN  
+Luiza Costa  
+Brazil  
+Computer Engineering student @ UFRN  
 
 <br>
 
@@ -84,7 +84,7 @@ Coding • Studying • Editing videos • Music • Coffee
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Coding • Studying • Editing videos • Music • Coffee
 
 <div align="center">
 
-### 💖 “Code like a girl. Build like an engineer.”
+### “Code like a girl. Build like an engineer.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
