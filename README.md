@@ -46,7 +46,6 @@ Coding • Studying • Editing videos • Music • Coffee
 <img src="https://img.shields.io/badge/technology-f9d5e5?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/coding-fceef5?style=flat-square&logo=codecrafters&logoColor=e091b0"/>
 <img src="https://img.shields.io/badge/music-ffe4f2?style=flat-square&logo=spotify&logoColor=e091b0"/>
-<img src="https://img.shields.io/badge/artificial_intelligence-fff5fa?style=flat-square&logo=tensorflow&logoColor=e091b0"/>
 
 <br>
 
