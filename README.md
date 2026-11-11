@@ -11,9 +11,8 @@
 
 ### `Computer Engineering Student @ UFRN`
 
-💗 Passionate about technology, artificial intelligence, and building creative solutions through code.  
-🌷 Currently studying Computer Engineering at the Federal University of Rio Grande do Norte (UFRN), Brazil.  
-✨ Exploring Machine Learning, MLOps, Software Development, and everything that blends logic with creativity.
+💗 Passionate about technology and building creative solutions through code.  
+🌷 Currently studying Computer Engineering at the Federal University of Rio Grande do Norte (UFRN), Brazil. 
 
 <br>
 
@@ -32,9 +31,6 @@
 🎓 Computer Engineering student @ UFRN  
 
 <br>
-
-💗 Currently Learning  
-Machine Learning • MLOps • Deep Learning • Data Science • Software Engineering
 
 <br>
 
@@ -74,10 +70,7 @@ Coding • Studying • Editing videos • Music • Coffee
 
 # 🌸 Currently Working On
 
-- 📚 Academic projects involving **Machine Learning**
-- 🧠 MLP classification models using **PyTorch**
-- 📊 Experiment tracking with **Weights & Biases**
-- 🐍 Improving my Python and AI skills
+- 📚 Academic projects involving **C Projects**
 - 💕 Building my journey in tech one project at a time
 
 ---
