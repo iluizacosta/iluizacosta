@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Luiza+Costa+%F0%9F%92%95;Computer+Engineering+Student;Tech+Girl+%7C+Future+ML+Engineer;Building+Cute+Things+with+Code+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Luiza+Costa+%F0%9F%92%95;Computer+Engineering+Student;Tech+Girl;Building+Cute+Things+with+Code+%F0%9F%8C%B8" />
 
 <br>
 
