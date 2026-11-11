@@ -11,8 +11,8 @@
 
 ### `Computer Engineering Student @ UFRN`
 
-💗 Passionate about technology and building creative solutions through code.  
-🌷 Currently studying Computer Engineering at the Federal University of Rio Grande do Norte (UFRN), Brazil. 
+Passionate about technology and building creative solutions through code.  
+Currently studying Computer Engineering at the Federal University of Rio Grande do Norte (UFRN), Brazil. 
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ---
 
-# 🎀 About Me
+# About Me
 
 <div align="center">
 
@@ -32,12 +32,12 @@
 
 <br>
 
-🩰 Interests  
+Interests  
 Artificial Intelligence • Frontend Development • Academic Research • Technology
 
 <br>
 
-☕ Hobbies  
+Hobbies  
 Coding • Studying • Editing videos • Music • Coffee
 
 <br>
@@ -65,10 +65,10 @@ Coding • Studying • Editing videos • Music • Coffee
 
 ---
 
-# 🌸 Currently Working On
+# Currently Working On
 
-- 📚 Academic projects involving **C Projects**
-- 💕 Building my journey in tech one project at a time
+- Academic projects involving **C Projects**
+- Building my journey in tech one project at a time
 
 ---
 
@@ -94,7 +94,7 @@ Coding • Studying • Editing videos • Music • Coffee
 
 ---
 
-# 🌷 Connect With Me
+# Connect With Me
 
 <div align="center">
 
